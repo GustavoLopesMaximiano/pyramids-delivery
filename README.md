@@ -37,6 +37,7 @@ Registra motoristas e veículos
 Mostra o status das entregas (pendente, em andamento, entregue)
 Ajuda no controle financeiro básico
 O sistema pode ser desenvolvido como um site (PWA) acessível por celular e computador, facilitando o uso no dia a dia dos motoristas e gestores.
+
  *Requisitos Funcionais*
  
 - RF001: O sistema deve permitir cadastro de novos usuários.
