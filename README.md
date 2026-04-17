@@ -12,8 +12,8 @@ Equipe:
 - [Willian Marcelo Nobre](github.com/Williannobre)
 
 Links do projeto:
--   Backend: [Repositório](https://github.com/GustavoLopesMaximiano/pyramids-delivery-Back) e [Publicação]()
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação]()
+-   Backend: [Repositório](https://github.com/wtfemanu/Pyramids-delivery-Back.git) e [Publicação]()
+-   Frontend: [Repositório](https://github.com/PyramidsDelivery/pyramids-frontend.git) e [Publicação]()
 
 *Descrição do projeto:*
 
