@@ -13,7 +13,7 @@ Equipe:
 
 Links do projeto:
 -   Backend: [Repositório](https://github.com/wtfemanu/Pyramids-delivery-Back.git) e [Publicação]()
--   Frontend: [Repositório](https://github.com/PyramidsDelivery/pyramids-frontend.git) e [Publicação]()
+-   Frontend: [Repositório](https://github.com/PyramidsDelivery/pyramids-frontend.git) e [Publicação](https://pyramids-frontend-one.vercel.app)
 
 *Descrição do projeto:*
 
